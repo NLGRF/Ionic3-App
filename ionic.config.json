@@ -1,0 +1,8 @@
+{
+  "name": "ionic3course",
+  "app_id": "3ad1a31a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
